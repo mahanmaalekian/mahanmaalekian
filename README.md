@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 I am a second-year software engineering student at McGill.
+[Check out my coding portfolio] (https://mahan-maalekian.vercel.app/)
 
 <!--
 **mahanmaalekian/mahanmaalekian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
